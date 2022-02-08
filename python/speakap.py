@@ -71,6 +71,10 @@ class API:
           "api_version": API_VERSION
       })
 
+    Your Speakap API hostname depends on your network location: 
+      - USA: api.usa.speakap.io
+      - EU: api.speakap.io
+
       Obviously, MY_APP_ID and MY_APP_SECRET should be replaced with your actual App ID and secret
       (or be constants containing those).
 
