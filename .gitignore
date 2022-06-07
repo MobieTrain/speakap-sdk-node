@@ -1,4 +1,2 @@
-php/bin/
 vendor/
-composer.lock
-
+node_modules

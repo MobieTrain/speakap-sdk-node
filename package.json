@@ -1,0 +1,30 @@
+{
+  "name": "speakap-sdk-node",
+  "version": "1.0.0",
+  "description": "Library to aid 3rd-party Speakap Application developers",
+  "main": "node/speakap.js",
+  "engines": {
+    "node": "^14",
+    "npm": "^6"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MobieTrain/speakap-sdk-node.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MobieTrain/speakap-sdk-node/issues"
+  },
+  "homepage": "https://github.com/MobieTrain/speakap-sdk-node#readme",
+  "dependencies": {
+    "crypto": "1.0.1",
+    "lodash": "4.17.21"
+  }
+}
