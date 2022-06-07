@@ -11,7 +11,8 @@
     "example": "examples"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "artifactregistry-login": "npx google-artifactregistry-auth"
   },
   "repository": {
     "type": "git",
@@ -24,7 +25,6 @@
   },
   "homepage": "https://github.com/MobieTrain/speakap-sdk-node#readme",
   "dependencies": {
-    "crypto": "1.0.1",
     "lodash": "4.17.21"
   }
 }
