@@ -1,5 +1,5 @@
 {
-  "name": "speakap-sdk-node",
+  "name": "@mobietrain/speakap-sdk-node",
   "version": "1.0.0",
   "description": "Library to aid 3rd-party Speakap Application developers",
   "main": "node/speakap.js",
