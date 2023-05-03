@@ -1,11 +1,11 @@
 {
   "name": "@mobietrain/speakap-sdk-node",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Library to aid 3rd-party Speakap Application developers",
   "main": "node/speakap.js",
   "engines": {
-    "node": "^14",
-    "npm": "^6"
+    "node": ">=16",
+    "npm": ">=7"
   },
   "directories": {
     "example": "examples"
